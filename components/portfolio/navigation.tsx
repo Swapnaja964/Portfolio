@@ -87,7 +87,7 @@ export function Navigation() {
         </ul>
         
         <a 
-          href="/resume.pdf" 
+          href="https://drive.google.com/drive/folders/1NU_JnEGUPRv72sjtIaSD9bo5rOVF568C?usp=drive_link" 
           className="hidden md:inline-flex px-4 py-2 text-sm font-mono border border-primary text-primary rounded-md hover:bg-primary hover:text-primary-foreground transition-all duration-300 hover:glow-sm"
         >
           Resume
@@ -120,7 +120,7 @@ export function Navigation() {
             ))}
             <li>
               <a 
-                href="/resume.pdf" 
+                href="https://drive.google.com/drive/folders/1NU_JnEGUPRv72sjtIaSD9bo5rOVF568C?usp=drive_link" 
                 className="inline-flex px-4 py-2 text-sm font-mono border border-primary text-primary rounded-md"
               >
                 Resume

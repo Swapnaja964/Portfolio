@@ -10,7 +10,7 @@ export function Footer() {
           {/* Social links - Mobile */}
           <div className="flex items-center gap-6 md:hidden">
             <a 
-              href="https://github.com" 
+              href="https://github.com/Swapnaja964" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-colors"
@@ -19,7 +19,7 @@ export function Footer() {
               <Github className="w-5 h-5" />
             </a>
             <a 
-              href="https://linkedin.com" 
+              href="https://www.linkedin.com/in/swapnaja-magarde/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-colors"
@@ -28,7 +28,7 @@ export function Footer() {
               <Linkedin className="w-5 h-5" />
             </a>
             <a 
-              href="mailto:swapnaja@example.com" 
+              href="mailto:swapnajamagarde2004@gmail.com" 
               className="text-muted-foreground hover:text-primary transition-colors"
               aria-label="Email"
             >

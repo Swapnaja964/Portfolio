@@ -44,7 +44,7 @@ export function Contact() {
         {/* Social links */}
         <div className="flex justify-center gap-6 mt-12">
           <a 
-            href="https://github.com" 
+            href="https://github.com/Swapnaja964" 
             target="_blank" 
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-primary transition-colors p-2 hover:glow-sm rounded-lg"
@@ -53,7 +53,7 @@ export function Contact() {
             <Github className="w-6 h-6" />
           </a>
           <a 
-            href="https://linkedin.com" 
+            href="https://www.linkedin.com/in/swapnaja-magarde/" 
             target="_blank" 
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-primary transition-colors p-2"
@@ -62,7 +62,7 @@ export function Contact() {
             <Linkedin className="w-6 h-6" />
           </a>
           <a 
-            href="mailto:swapnaja@example.com" 
+            href="mailto:swapnajamagarde2004@gmail.com" 
             className="text-muted-foreground hover:text-primary transition-colors p-2"
             aria-label="Email"
           >
