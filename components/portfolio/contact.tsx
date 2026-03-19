@@ -34,7 +34,7 @@ export function Contact() {
           className="bg-primary text-primary-foreground hover:bg-primary/90 glow-sm transition-all duration-300 font-mono group"
           asChild
         >
-          <a href="mailto:swapnaja@example.com">
+          <a href="mailto:swapnajamagarde2004@gmail.com">
             <Mail className="w-4 h-4 mr-2" />
             Say Hello
             <Send className="w-4 h-4 ml-2 group-hover:translate-x-1 transition-transform" />
