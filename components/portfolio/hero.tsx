@@ -69,7 +69,7 @@ export function Hero() {
               </Button>
               <Button 
                 variant="outline" 
-                className="border-border hover:border-primary hover:text-primary transition-all duration-300 font-mono"
+                className="border-border hover:border-primary hover:bg-primary hover:text-primary-foreground transition-all duration-300 font-mono"
                 onClick={() => document.getElementById('contact')?.scrollIntoView({ behavior: 'smooth' })}
               >
                 {">"} Get in Touch
@@ -103,7 +103,7 @@ export function Hero() {
                 <Mail className="w-5 h-5" />
               </a>
               <a 
-                href="/resume.pdf" 
+                href="https://drive.google.com/drive/folders/1NU_JnEGUPRv72sjtIaSD9bo5rOVF568C?usp=drive_link" 
                 className="text-muted-foreground hover:text-primary transition-colors duration-300 flex items-center gap-1"
                 aria-label="Resume"
               >
